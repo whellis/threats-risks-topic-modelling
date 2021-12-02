@@ -1,0 +1,8 @@
+*.gensim
+*.npy
+*.id2word
+*.state
+*.pkl
+
+.idea/
+.ipynb_checkpoints/
